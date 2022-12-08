@@ -8,7 +8,7 @@
   },
   "author": "vinay",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "rss-parser": "^3.9.0"
   }
 }
